@@ -1,0 +1,9 @@
+
+crypto module.
+express
+firebase
+socket.io
+firebase-react-hook
+
+
+
