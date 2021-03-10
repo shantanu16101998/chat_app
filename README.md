@@ -15,11 +15,11 @@
 
 ## Screenshots
 
-![room pic](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/room%20pic.jpeg)
+![room pic](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/room%20pic.jpeg =200x200)
 
-![video calling](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/videocalling.png)
+![video calling](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/videocalling.png =200x200)
 
-![encryption](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/crypto.png)
+![encryption](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/crypto.png =200x200)
 
 
 ## Made with :heart: by me and Shivendra
