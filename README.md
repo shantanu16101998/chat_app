@@ -13,18 +13,18 @@
 1. Firebase
 1. peerjs
 
-## Screenshots
+# Screenshots
 
 
-# One to one chat
+## One to one chat
 
 ![room pic](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/room%20pic.jpeg)
 
-# Video calling
+## Video calling
 
 ![video calling](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/videocalling.png)
 
-# Encryption
+## Encryption
 
 ![encryption](https://github.com/shantanu16101998/chat_app/blob/main/displaypics/crypto.png)
 
